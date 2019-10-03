@@ -6,7 +6,7 @@ from PyQt4.QtCore import QUrl  # this is how we can read the url
 from PyQt4.QtWebKit import QWebPage
 import csv
 
-
+#getlost
 class Client(QWebPage):
 
     def __init__(self, url):
